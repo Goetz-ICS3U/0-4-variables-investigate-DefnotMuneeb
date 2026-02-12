@@ -1,32 +1,19 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22656760&assignment_repo_type=AssignmentRepo)
-# 0.4-variables-investigation
-## Startup
-
-1. Git clone the repository into Unit0, under Investigate
-2. Create a new file called var_investigate.py
-3. Copy / paste the below code into that file
-4. Play around with the file
-
-## Instructions
-1. Change the **values** of all of the variable names so that the story reads a bit differently. DO NOT CHANGE ANYTHING IN THE PRINT FUNCTION YET
-2. Add 3 new variables in the Input section and then add those variables to the story in the print function!
-
-
-```python - copy code below
 """
-author:
-date:
+author: Muneeb Khan Mohammed 
+date: 02/12/26
 Investigating Variables
 """
 
 # Input
-name = "Mr. Nguyen"
-grade = 13
+name = "Muneeb"
+grade = 11
 favourite_exclamation = "bruh"
-least_favourite_colour = "yellow"
+least_favourite_colour = "green"
 is_cool = True
-math_test_score = 90.15
-sister_name = None
+math_test_score = 60
+sister_name = "Munazza"
+scold_me = "dad yelled at me :😭:"
+
 
 slope = 2
 y_intercept = 10
@@ -45,3 +32,6 @@ print(
     + "Anyway, that's the story of my math test."
 )
 ```
+
+
+
